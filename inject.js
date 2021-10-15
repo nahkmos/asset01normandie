@@ -5,38 +5,38 @@ function translate(id, text) {
 }
 
 translate("welcome", {
-  "fr": "Bienvenue à 01 !"
+  "fr": "Bienvenue à Zone01 !"
 })
 translate("zone-01", {
-  "fr": "Zone 01 is our collaborative coding education platform"
+  "fr": "Zone01 c'est notre plateforme collaborative d'apprentissage du code."
 })
 translate("zone-01-process", {
-  "fr": "New here? Here’s what you need to do:"
+  "fr": "Nouveau ici ? Voila ce que tu dois faire :"
 })
 translate("instruction-1", {
-  "fr": "Create an account, and log into the platform."
+  "fr": "Crée un compte, et connecte-toi sur la plateforme."
 })
 translate("instruction-2", {
-  "fr": "Complete the online cognitive test."
+  "fr": "Complète les tests cognitifs en ligne."
 })
 translate("instruction-3", {
-  "fr": "Wait to find out whether you’ve made it to the next stage."
+  "fr": "Patiente pour savoir si tu est séléctionné pour l'étape suivante."
 })
 translate("account", {
-  "fr": "That’s it! If you’ve already created an account, sign in to complete your application or check for updates."
+  "fr": "C'est tout ! si tu as déja créé un compte, connecte-toi pour compléter ta candidature ou suivre son progrès."
 })
 translate("about-us", {
-  "fr": "Want to know more about us ?"
+  "fr": "tu veux en savoir plus sur nous ?"
 })
 translate("contact", {
-  "fr": "Contact us"
+  "fr": "Nous contacter"
 })
 translate("sign-in", {
-  "fr": "se connecter"
+  "fr": "Se connecter"
 })
 translate("or", {
   "fr": "ou"
 })
 translate("join", {
-  "fr": "create an account"
+  "fr": "Créer un compte"
 })
